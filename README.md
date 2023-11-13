@@ -1,5 +1,5 @@
 # restaurant-recommender
-[Codecademy](https://www.codecademy.com/learn) [TypeScript](https://www.typescriptlang.org/).
+[Codecademy](https://www.codecademy.com/learn) [TypeScript](https://www.typescriptlang.org/) project.
 
 ## Restaurant Recommender
 Let’s collaborate on a program that recommends a restaurant from a list of options. The program should use a few variables, like price range, delivery time, distance, and whether the restaurant is open in order to recommend customers the perfect spot.
